@@ -2,7 +2,7 @@
 Research UNIX v7 (1979) on PDP 11 using Docker
 
 [Research Unix](https://en.wikipedia.org/wiki/Research_Unix#Versions)   
-[Install Docker](https://docs.docker.com/get-docker)
+[Install Docker](https://docs.docker.com/get-docker) OR [Play with Docker](https://labs.play-with-docker.com)
 
     docker run --rm -it eniof/unix7 
     
