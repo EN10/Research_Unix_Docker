@@ -1,5 +1,5 @@
 # Research_Unix_Docker
-Research UNIX v7 on PDP 11 using Docker
+Research UNIX v7 (1979) on PDP 11 using Docker
 
 [Research Unix](https://en.wikipedia.org/wiki/Research_Unix#Versions)
 
