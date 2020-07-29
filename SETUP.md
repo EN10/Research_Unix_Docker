@@ -3,7 +3,6 @@
     docker run --rm -it alpine
     vi etc/apk/repositories
     http://dl-cdn.alpinelinux.org/alpine/edge/testing
-    apk update
     apk add simh
     cd /home
     wget http://simh.trailing-edge.com/kits/uv7swre.zip
