@@ -4,10 +4,14 @@
     vi etc/apk/repositories
     http://dl-cdn.alpinelinux.org/alpine/edge/testing
     apk add simh
+    mv /usr/bin/simh-pdp11 /home
+    rm /usr/bin/simh-*
+    mv /home/simh-pdp11 /usr/bin/
     cd /home
     wget http://simh.trailing-edge.com/kits/uv7swre.zip
     unzip uv7swre.zip
-
+    rm uv7swre.zip
+    
 ### SimH setup file
 
     vi ini
